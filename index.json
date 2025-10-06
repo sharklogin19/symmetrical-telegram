@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64",
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "license": "CC-BY-4.0",
+  "license_family": "CC",
+  "name": "colorcet",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1709758664630,
+  "version": "3.1.0"
+}
